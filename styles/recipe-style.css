@@ -1,9 +1,8 @@
+.container {
+    width: 800px;
+    margin: auto;
+}
+
 .first-div {
     text-align: center;
 }
-
-.list {
-    margin-inline-start: 50px;
-    margin-inline-end: 50px;
-}
-
